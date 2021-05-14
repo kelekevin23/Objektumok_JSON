@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+main, header, footer, article{
+    border: 1px solid black;
+    padding: 5px;
+}
+body{
+    background: lightgray;
+}
+main{
+    max-width: 800px;
+    margin:auto;
+    text-align: center;
+    background: white;
+}
+
+header{
+    font-size: 30px;
+    font-weight: bold;
+}
+footer{
+    padding: 20px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table, td, th{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+th{
+    background: lightblue;
+}
+
+fieldset{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+input{
+    margin: 10px;
+}
+#urlap{
+    text-align: right;
+}
+#gomb{
+    margin: auto;
+}
+#kuld{
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+}

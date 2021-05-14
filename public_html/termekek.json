@@ -1,0 +1,23 @@
+[
+    {
+        "ID": 1,
+        "termek": "Napszemüveg",
+        "szin": "fehér",
+        "ar": "7990",
+        "marka": "adidas"
+    },
+    {
+        "ID": 2,
+        "termek": "Futócipő",
+        "szin": "fekete",
+        "ar": "14990",
+        "marka": "puma"
+    },
+    {
+        "ID": 3,
+        "termek": "Kapuskesztyű",
+        "szin": "vörös",
+        "ar": "6490",
+        "marka": "nike"
+    }
+]
